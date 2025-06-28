@@ -23,29 +23,28 @@ const Services = () => {
                         <article className='about__card1'>
                             <RiReactjsLine className='about__icon1' />
                             <h5>React JS</h5>
-                            <small>1+ Years Working</small>
+                            <small>3+ Years of Experience</small>
                         </article>
 
                         <article className='about__card1'>
                             <SiDjango className='about__icon1' />
-                            <h5>Django</h5>
-                            <small>1+ Years Working</small>
+                            <h5>Python Django</h5>
+                            <small>1+ Years Experience</small>
                         </article>
 
                         <article className='about__card1'>
                             <SiExpress className='about__icon1' />
                             <h5>Express JS</h5>
-                            <small>1+ Years Working</small>
+                            <small>1+ Years Experience</small>
                         </article>
                     </div>
 
                     <p>
-                        Hello, I am offering React Development (Frontend Web-App) with Best Custom Designs in pure CSS, Material UI, Tailwind CSS and BootStrap.
+                        Hello, I am offering React JS Development (Frontend Web-App) with Best Custom Designs and Themes in pure CSS, Material UI, Tailwind CSS and BootStrap.
                     </p>
 
-
                     <div className='services__links'>
-                        <a href='www.fiverr.com/codedude1' target='_blank' className='services__links-a'><SiFiverr /></a>
+                        <a href='https://www.fiverr.com/dev_baloch' target='_blank' className='services__links-a'><SiFiverr /></a>
                         <a href="https://www.upwork.com" target='_blank' className='services__links-a'><SiUpwork /></a>
                     </div>
 
